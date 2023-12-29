@@ -1,5 +1,15 @@
 A plugin that adds your custom notes to the left panel (ribbon) for quicker access both on desktop and mobile
 
+# How to install
+1. Download the files in this repository to your computer
+2. Find your vault folder, and go to `.obsidian/plugins`
+3. You can create a `ribbon-icon-notes` folder here
+4. Open the `ribbon-icon-notes` folder, and paste the files into it
+5. Now when you go to Settings -> Community plugins, you'll see "Ribbon icon notes" plugin, which you can enable
+
+If enough people are interested in this - I'm happy to publish it officially, since it takes a bit more work to do that and jump through all the hoops there, but for now I thought it would be great to see if people care about this at all, and if you have the interest to use it for a bit - maybe you find some bug I missed! :D
+Happy Obsidianing!
+
 # Why
 Before I had a file that had 3 notes I would access most of the time, and it was a bit annoying to open it first, and then to go to the note I wanted (especially on mobile), so I decided to make it 1 click instead  
 
