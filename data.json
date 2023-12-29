@@ -1,0 +1,20 @@
+{
+  "iconNotes": [
+    {
+      "icon": "document",
+      "path": "Personal 🫀/Dailies 📈/Dec 25 - Dec 31 📝.md",
+      "name": "Daily"
+    },
+    {
+      "icon": "star-list",
+      "path": "Personal 🫀/Priorities.md",
+      "name": "Priorities"
+    },
+    {
+      "icon": "lines-of-text",
+      "path": "Personal 🫀/Lists ☑️/Buy.md",
+      "name": "Shopping list"
+    }
+  ],
+  "settings": {}
+}

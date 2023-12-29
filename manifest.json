@@ -1,0 +1,12 @@
+{
+  "id": "ribbon-icon-notes",
+  "name": "Ribbon icon notes",
+  "version": "1.0.0",
+  "description": "Add a note to ribbon as an icon for quicker access",
+  "author": "Nazar Novak",
+  "isDesktopOnly": false,
+  "js": "main.js",
+  "dependencies": [],
+  "permissions": "ui",
+  "fundingUrl": "https://buymeacoffee.com/nazaro"
+}
