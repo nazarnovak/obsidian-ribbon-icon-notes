@@ -28,7 +28,7 @@ After you turn on the plugin, go to the settings. Everything is shown on the scr
 
 I'm aware of the 2 issues above and I would love to solve them, but I'm not sure so far how to do it, and if it's possible at all  
 
-These are how my icons look like now  
+# Example how it looks for me  
 
 <img width="297" alt="Screenshot 2023-12-29 at 23 16 55" src="https://github.com/nazarnovak/obsidian-ribbon-icon-notes/assets/20066923/75d58f77-49d0-40b5-88a4-191dd78000d0">
 
