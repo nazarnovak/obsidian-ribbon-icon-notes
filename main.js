@@ -299,7 +299,7 @@ class RibbonIconNotesPlugin extends Plugin {
             // If the path is wrong - we need to tell user that!
             let foundNote = false;
             for (const pathKey in this.app.vault.fileMap) {
-              if (pathKey !== this.pluginData.iconNotes[key].path) {
+              if (pathKey !== this.pluginData.iconNotes[key].path + ".md") {
                 continue;
               }
 
@@ -309,7 +309,7 @@ class RibbonIconNotesPlugin extends Plugin {
             if (!foundNote) {
               new Notice(
                 "Note not found with path you have set: " +
-                  this.pluginData.iconNotes[key].path,
+                  this.pluginData.iconNotes[key].path + ".md",
                 3000
               );
               return;
@@ -317,7 +317,7 @@ class RibbonIconNotesPlugin extends Plugin {
 
             // Called when the user clicks the icon.
             this.app.workspace.openLinkText(
-              this.pluginData.iconNotes[key].path,
+              this.pluginData.iconNotes[key].path + ".md",
               "",
               false,
               {
